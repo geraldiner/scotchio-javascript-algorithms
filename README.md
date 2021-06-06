@@ -1,2 +1,3 @@
-# js-algorithms-demo-
-Demo repository for JS Algorithms Course
+# scotchi-javascript-algorithms
+
+Work for Scotch.io's Ultimate Guide to JavaScript Algorithms
