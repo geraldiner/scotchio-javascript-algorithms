@@ -1,8 +1,10 @@
-/* CHALLENGE
-Given a string of text, write an algorithm that returns the text received in a reversed format. 
-E.g reverseString('algorithms') // should return 'smhtirogla'
-*/
+/* 
+Given a sentence, return the longest word in the string. 
+E.g longestWord('Top Shelf Web Development Training on Scotch') should return 'Development'
 
+Approach
+
+*/
 
 
 function longestWord(text) {
