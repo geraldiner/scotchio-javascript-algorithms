@@ -9,18 +9,32 @@ Approach
 */
 
 
+// function longestWord(text) {
+//     let words = text.split(' ')
+//     let longestWord = ''
+//     let longestWordLength = 0
+//     for (const word of words) {
+//         if (word.length > longestWordLength) {
+//             longestWordLength = word.length
+//             longestWord = word
+//         }
+//     }
+//     return longestWord
+// }
+
 function longestWord(text) {
     let words = text.split(' ')
-    let longestWord = ''
-    let longestWordLength = 0
-    for (const word of words) {
-        if (word.length > longestWordLength) {
-            longestWordLength = word.length
-            longestWord = word
-        }
-    }
+    let longestWord = words.reduce((acc, curr) => {
+        return acc.length > curr.length ? acc : curr
+    }, "")
     return longestWord
 }
+
+// function longestWord(text) {
+//     let words = text.split(' ')
+//     words.sort((a, b) => b.length - a.length)
+//     return words[0]
+// }
 
 console.log(longestWord('Top Shelf Web Development Training on Scotch'))
 
