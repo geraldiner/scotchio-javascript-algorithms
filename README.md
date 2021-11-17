@@ -22,4 +22,14 @@ Take a look at other cool stuff I've worked on:
 
 **Where's the Magic?:** <a href='https://github.com/geraldiner/magical-movies' target='_blank'>https://github.com/geraldiner/magical-movies</a>
 
-**Habit Reset Tool:** <a href='https://github.com/geraldiner/habit-reset' target='_blank'>https://github.com/geraldiner/habit-reset</a>
+**Habit Reset Tool:** <a href='https://github.com/geraldiner/habit-reset' target='_blank'>https://github.com/geraldiner/habit-reset</a>## Other Projects
+
+Check out other stuff I've worked on:
+
+**Rehabitter:** https://github.com/geraldiner/rehabitter
+
+**K.K. Radio:** https://github.com/geraldiner/kk-radio
+
+**Interactive Piano:** https://github.com/geraldiner/piano
+
+**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
