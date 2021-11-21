@@ -17,6 +17,7 @@ I liked that the solutions walked through optimized solutions. I'm still learnin
 Surprisingly, I have seen a number of these challenges before. Also, I felt brave so I decided to try it them before looking at the solutions. It wasn't until I got to some of the later array challenges that I felt a little doubtful. But it was still great practice for problem-solving skills, especially if I'm met with an unknown problem during an interview.
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
